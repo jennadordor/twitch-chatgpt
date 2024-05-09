@@ -128,4 +128,6 @@ Chatter and user "QTPIHayley" is not a femboy.
 Chatter and user "olivegardenwarrior" is a male.
 Chatter and user "olivegardenwarrior" is not a femboy.
 Chatter and user "olivegardenwarrior" is an olive.
-
+Chatter and user "Spoonthegiraffe" is a male.
+Chatter and user "Spoonthegiraffe" is a giraffe.
+Chatter and user "Spoonthegiraffe" is Jennas son.
